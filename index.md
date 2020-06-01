@@ -114,6 +114,7 @@ The Board of Directors shall hire and fix the compensation of any and all employ
 
 	These By-Laws may be altered, amended, repealed or added to by an affirmative vote of not less than 65% of the members.
 
+
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first above written.
 
 
