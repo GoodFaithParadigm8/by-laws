@@ -102,17 +102,17 @@ The Board of Directors shall hire and fix the compensation of any and all employ
 
 10. COMMITTEES
 
-All committees of this organization shall be appointed by the Board of Directors and their term of office shall be for a period of one year or less if sooner terminated by the action of the Board of Directors.
+	All committees of this organization shall be appointed by the Board of Directors and their term of office shall be for a period of one year or less if sooner terminated by the action of the Board of Directors.
 
-The permanent committees shall be: [DESCRIBE]
+	The permanent committees shall be: [DESCRIBE]
 
 11. DUES
 
-The dues of this organization shall be [AMOUNT] per annum and shall be payable on [DATE].
+	The dues of this organization shall be [AMOUNT] per annum and shall be payable on [DATE].
 
 12. AMENDMENTS
 
-These By-Laws may be altered, amended, repealed or added to by an affirmative vote of not less than 65% of the members.
+	These By-Laws may be altered, amended, repealed or added to by an affirmative vote of not less than 65% of the members.
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first above written.
 
