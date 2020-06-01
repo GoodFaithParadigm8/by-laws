@@ -2,21 +2,21 @@
 
 These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization”) are made and effective June, 1, 2020.
 
-## 1. ORGANIZATION
+1. ORGANIZATION
  
- 	A. The name of the organization shall be Good Faith Paradigm.
+	A. The name of the organization shall be Good Faith Paradigm.
 	
 	B. The organization may at its pleasure by a vote of the membership body change its name.
 
-## 2. PURPOSES
+2. PURPOSES
 
 	The organization is organized exclusively for charitable, religious, educational, and scientific purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations under section 501(c)(3) of the Internal Revenue Code, or the corresponding section of any future federal tax code.
 
-## 3. MEMBERSHIP
+3. MEMBERSHIP
 
 	Membership in this organization shall be open to all who [DESCRIBE].
 
-## 4. MEETINGS
+4. MEETINGS
 
 	A. The annual membership meeting of this organization shall be held on the 25 of December each and every year except if such day be a legal holiday, then and in that event, the Board of Directors shall fix the day but it shall not be more than two weeks from the date fixed by these By-Laws.
 
@@ -30,7 +30,7 @@ These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization�
 
 	F. No other business but that specified in the notice may be transacted at such special meeting without the unanimous consent of all present at such meeting.
 
-## 5. VOTING
+5. VOTING
 
 	A. At all meetings, except for the election of officers and directors, all votes shall be by voice. For election of officers, ballots shall be provided and there shall not appear any place on such ballot that might tend to indicate the person who cast such ballot.
 
@@ -38,7 +38,7 @@ These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization�
 
 	C. No inspector of election shall be a candidate for office or shall be personally interested in the question voted upon.
 
-## 6. ORDER OF BUSINESS
+6. ORDER OF BUSINESS
 
 	1. Roll Call.
 
@@ -54,7 +54,7 @@ These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization�
 
 	7. Adjournments.
 
-## 7. BOARD OF DIRECTORS
+7. BOARD OF DIRECTORS
 
 	A. The business of this organization shall be managed by a Board of Directors consisting of [#] members, together with the officers of this organization. At least one of the directors elected shall be a resident of the State of [STATE/PROVINCE] and a citizen of [COUNTRY].
 
@@ -76,7 +76,7 @@ These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization�
 
 	J. A director may be removed when sufficient cause exists for such removal. The Board of Directors may entertain charges against any director. A director may be represented by counsel upon any removal hearing. The Board shall adopt such rules for this hearing as it may in its discretion consider necessary for the best interests of the organization.
 
-## 8. OFFICERS
+8. OFFICERS
 
 	A. The initial officers of the organization shall be as follows:
 
@@ -96,21 +96,21 @@ These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization�
 
 	G. No officer shall for reason of his office be entitled to receive any salary or compensation, but nothing herein shall be construed to prevent an officer or director for receiving any compensation from the organization for duties other than as a director or officer.
 
-## 9. SALARIES
+9. SALARIES
 
 The Board of Directors shall hire and fix the compensation of any and all employees which they in their discretion may determine to be necessary for the conduct of the business of the organization.
 
-## 10. COMMITTEES
+10. COMMITTEES
 
 All committees of this organization shall be appointed by the Board of Directors and their term of office shall be for a period of one year or less if sooner terminated by the action of the Board of Directors.
 
 The permanent committees shall be: [DESCRIBE]
 
-## 11. DUES
+11. DUES
 
 The dues of this organization shall be [AMOUNT] per annum and shall be payable on [DATE].
 
-## 12. AMENDMENTS
+12. AMENDMENTS
 
 These By-Laws may be altered, amended, repealed or added to by an affirmative vote of not less than 65% of the members.
 
