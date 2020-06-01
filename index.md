@@ -3,8 +3,10 @@
 These By-Laws (the “Agreement”) of Good Faith Paradigm (the “Organization”) are made and effective June, 1, 2020.
 
  1. ORGANIZATION
-	  A. The name of the organization shall be Good Faith Paradigm.
-	  B. The organization may at its pleasure by a vote of the membership body change its name.
+ 
+ 	A. The name of the organization shall be Good Faith Paradigm.
+	
+	B. The organization may at its pleasure by a vote of the membership body change its name.
 
  1. PURPOSES
 
@@ -113,6 +115,7 @@ The dues of this organization shall be [AMOUNT] per annum and shall be payable o
 These By-Laws may be altered, amended, repealed or added to by an affirmative vote of not less than 65% of the members.
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first above written.
+
 
 
 > Written with ❤️ by GoodFaithParadigm
